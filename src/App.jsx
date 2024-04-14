@@ -4,7 +4,7 @@ import CoursesPage from './pages/CoursesPage';
 function App() {
   return (
     <div className="App">
-      <CoursesPage />
+      <Authentification />
     </div>
   );
 }
